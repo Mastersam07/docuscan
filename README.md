@@ -1,4 +1,18 @@
-# DocuScan
+# 🔥🔥 DocuScan
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/mastersam_.svg?style=social)](https://twitter.com/mastersam_)
+
+Pdf scanner built with flutter.
+
+Star⭐ the repo if you like what you see😉.
+
+
+<!-- <a href="ss/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a> -->
+
+[Link to Mockup](https://www.ls.graphics/free/simple-iphone-x-mockups)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/mastersam_.svg?style=social)](https://twitter.com/mastersam_)
 
 Pdf scanner built with flutter.
 
@@ -34,6 +48,11 @@ Pdf scanner built with flutter.
 * [ ] PDF Compress
 * [ ] PDF Merge
 
-## Screenshots :camera:
+## 📸 ScreenShots
 
-## Documentation 📝
+| Image| Image|
+|------|-------|
+|<img src="ss/1.png" width="400">|<img src="ss/2.png" width="400">|
+
+## 🤓 Author(s)
+**Samuel Abada** [![Twitter Follow](https://img.shields.io/twitter/follow/mastersam_.svg?style=social)](https://twitter.com/mastersam_)
